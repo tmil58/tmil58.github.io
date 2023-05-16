@@ -1,0 +1,3 @@
+[submodule "themes/goyangin"]
+	path = themes/goyangin
+	url = https://github.com/zava810/goyangin.git
